@@ -2,7 +2,7 @@
 ### Scope 1, 2 & 3 | GHG Protocol Aligned | BRSR Principle 6 | Net Zero Scenario Modelling
 
 ![Dashboard](GHG_Dashboard_GreenCore_2024.png)
-
+Interactive Power BI Dashboard: See GHG_Dashboard.pbit for the full interactive dashboard export with scenario filtering and BRSR disclosure table.
 ---
 
 ## Overview
